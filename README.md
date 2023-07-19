@@ -23,7 +23,7 @@ There are some testing data files available for you to try in the 'Test_Input' f
 
 ## Note
 Voronoi Diagram 是由鄰近點的中垂線形成。  
-詳細說明可以看**index.html**
+詳細說明可以看[**index.html**](https://allen-0207.github.io/Voronoi_Diagram/)
 
 Diveid-and-conquer 三個部分
 * Divide: spilt the origin problem into 2 sub-problems with equal sizes.
